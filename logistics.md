@@ -10,7 +10,7 @@ The team leaders need to register their team members and faculty advisor electro
 Each team is eligible to register for **only one region** based on university affiliation: Europe, India, MENA, or US-Canada, as defined below. While team members do not need to attend the same university, all team members must be a part of the same region. 
 
 
--   **Europe:** Hosting studnets from universities located in the European Union, Switzerland, Norway, or Armenia
+-   **Europe:** Hosting students from universities located in the European Union, Switzerland, Norway, or Armenia
 -   **India:** Hosting students from universities located in India
 -   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Jordan, Iraq, Iran, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen. 
 -   **US-Canada**: Hosting students from universities located within the United States or Canada
