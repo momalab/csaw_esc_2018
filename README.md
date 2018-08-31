@@ -1,3 +1,5 @@
+**Update 1: Registration deadline extended to September 17 and reports due date to September 24, 2018.**
+
 CSAW 2018 Embedded Security Challenge (ESC)
 ===========================================
 
