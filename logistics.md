@@ -54,6 +54,14 @@ Equipment Requirements
 
 For the live finals of the competition in each region, the teams will be asked to demonstrate their side-channel data leakage technique(s) on IoT smart light bulbs (tentatively the **Magic Blue Bluetooth Bulb**), which will be provided to the finalists by the organizers. Teams are responsible for acquiring and transporting any other equipment their techniques require.
 
+Below are links to the light bulbs that organizers will ship to the finalist teams:
+
+- [US-Canada](https://www.amazon.com/gp/product/B0176HB8C8)
+
+- [Europe](https://fr.aliexpress.com/item/2016New-Magic-Blue-4-5W-E27-RGBW-led-light-bulb-Bluetooth-4-0-smart-lighting-lamp/32691100143.html)
+
+- [India](https://www.amazon.in/Generic-Bluetooth-lighting-dimmable-AC85-265V/dp/B06XC6DQL4)
+
 
 Deliverables
 ------------
