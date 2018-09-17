@@ -1,4 +1,6 @@
 **Update 1: Registration deadline extended to September 17 and reports due date to September 24, 2018.**
+**Update 2: You can register your team and submit the qualification phase report by September 24, 2018.**
+
 
 CSAW 2018 Embedded Security Challenge (ESC)
 ===========================================

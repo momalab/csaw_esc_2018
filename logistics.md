@@ -34,7 +34,7 @@ Each CSAW region will announce separate winners for the first, second and third 
 Competition Deadlines
 ---------------------
 
--   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/) and [questionnaire submission](http://tinyurl.com/csaw-esc-18-questionnaire) deadline: ~~September 3, 2018~~ **September 17, 2018**. 
+-   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/) and [questionnaire submission](http://tinyurl.com/csaw-esc-18-questionnaire) deadline: ~~September 3, 2018~~ **September 24, 2018**. 
 
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/): ~~September 10, 2018~~ **September 24, 2018**.
 
