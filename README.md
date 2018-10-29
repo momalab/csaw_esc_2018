@@ -4,6 +4,8 @@
 
 **Update 3**: The teams that qualify to the finals have been announced! Check the finalist teams for each region [here](finalists2018.md).
 
+**Update 4**: Final reports submission deadline extended to November 4, 2018 5pm EST.
+
 CSAW 2018 Embedded Security Challenge (ESC)
 ===========================================
 

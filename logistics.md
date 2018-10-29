@@ -40,7 +40,7 @@ Competition Deadlines
 
 -   Announcement of teams qualified to the final phase: ~~September 17, 2018~~ **September 30, 2018**.
 
--   Final reports and associated computer files due in [HotCRP](https://hotcrp.engineering.nyu.edu/): **November 1, 2018 5pm EST (UTC-5)**.
+-   Final reports and associated computer files due in [HotCRP](https://hotcrp.engineering.nyu.edu/): **November 4, 2018 5pm EST (UTC-5)**.
 
 
 Code of Conduct
