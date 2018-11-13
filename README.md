@@ -1,3 +1,5 @@
+## ESC 2018 winners are announced [here](esc2018_winners.md)
+
 **Update 1**: Registration deadline extended to September 17 and reports due date to September 24, 2018.
 
 **Update 2**: You can register your team and submit the qualification phase report by September 24, 2018.
